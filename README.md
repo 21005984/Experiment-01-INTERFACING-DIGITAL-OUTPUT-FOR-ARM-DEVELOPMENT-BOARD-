@@ -74,12 +74,12 @@ The main features of LPC2148 include the following.
 ![image](https://user-images.githubusercontent.com/36288975/226189649-b5dff389-91df-4eca-b84a-1127c6562637.png)
 ## STM 32 CUBE PROGRAM :
 ~~~
+DEVELOPED BY : MEIYARASI.v
+REGISTER NUMBER : 212221230058
+~~~
+~~~
 #include "main.h"
-
-
 UART_HandleTypeDef huart2;
-
-
 void SystemClock_Config(void);
 static void MX_GPIO_Init(void);
 static void MX_USART2_UART_Init(void);
@@ -210,6 +210,9 @@ void assert_failed(uint8_t *file, uint32_t line)
 ## Output  :
 
 ![output](p1.jpeg)
+
+
+![output](p2.jpeg)
 
 
 ## Result :
